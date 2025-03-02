@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jE5PWU/549s=",
+  "success": true,
+  "projectFilePath": "/home/mustafa/Documents/projects/csharp/csharp-7-oop-2/csharp-7-oop-2.csproj",
+  "expectedPackageFiles": [
+    "/home/mustafa/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
